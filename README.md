@@ -1,6 +1,6 @@
 # conversor_temperatura
 
-A new Flutter project.
+Um plicativo que converte temperaturas em Celsius para Fahrenheit e vise versa.
 
 ## Getting Started
 
